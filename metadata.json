@@ -1,0 +1,5 @@
+{
+  "name": "Muscle Heatmap Tracker",
+  "description": "A workout tracker that visualizes muscle activation on a detailed body map.",
+  "requestFramePermissions": []
+}
